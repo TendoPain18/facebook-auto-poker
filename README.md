@@ -1,7 +1,7 @@
 # Facebook Auto Poker Bot 🤖👆
 
 <div align="center">
-<img src="images/thumbnail.png" alt="Gesture Volume Control" width="600"/>
+<img src="images/thumbnail.png" alt="Gesture Volume Control" width="400"/>
 </div>
 
 ## ⚔️ The Origin Story
